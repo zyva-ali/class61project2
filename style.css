@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    background-color: skyblue;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 30;
+}
+
+h1:hover{
+    transform: scale(0.75)
+}
+
+#intro{
+    background-color: azure;
+}
+
+#origami1{
+   background-color:lightpink;
+}
+
+}
+#contact_1 h3
+{
+    display: inline;
+}
+#contact_1 a
+{
+    color: white;
+    text-shadow: none;
+}
+
+.line {
+    height: 6px;
+    background-color: whitesmoke;
+    width: 70px;
+    margin: 8px auto;
+}
+
+p{
+    font-size: 15px;
+    font-weight: 10;
+}
+
+.pic{
+    height: 276 px;
+    width: 368 px;
+    box-shadow: 10px 5px 5px whitesmoke;
+}
+
+.pic:hover {
+transform: scale(1.1);
+}
